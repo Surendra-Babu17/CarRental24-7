@@ -1,0 +1,9 @@
+page route cheyali ante first idhi install cheyali npm install react-route-dom 
+
+next BrowserRouter anedhi import chesukovali main.jsx lo 
+BrowserRouter tag lopala app component vunchali 
+
+next app.jsx lo  route routes import chesukovali 
+
+
+
